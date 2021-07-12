@@ -319,6 +319,7 @@ h2 {
   z-index: 1; }
   h4{
     color: #fff;
+
   }
 
 .owl-carousel .fadeOut {
@@ -486,7 +487,7 @@ h2 {
     padding: 7px; }
   @media (max-width: 1199px) {
     .fh5co-portfolio .bx-1, .fh5co-portfolio .bx-4 {
-      width: 32.5%; }
+      width: 25.5%; }
     .fh5co-portfolio .bx-2 {
       width: 41%; }
     .fh5co-portfolio .bx-3 {
